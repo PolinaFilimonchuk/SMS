@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88656c98-5c0c-4c7d-81b6-5a07750f4e75" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="88656c98-5c0c-4c7d-81b6-5a07750f4e75" name="Changes" comment="new new" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,22 +16,22 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000000004" />
-      <entry key="S2" value="1.0001490929850856" />
-      <entry key="S5" value="1.0294715165393156" />
-      <entry key="S10" value="1.1759344103695168" />
-      <entry key="S30" value="2.4953969388061665" />
-      <entry key="S60" value="5.371276426486396" />
-      <entry key="M2" value="8.987514294187926" />
-      <entry key="M5" value="12.627599221420242" />
-      <entry key="M10" value="14.201514887467745" />
-      <entry key="M15" value="14.7745465016087" />
-      <entry key="M30" value="15.37364210908629" />
-      <entry key="H1" value="15.68333624767671" />
-      <entry key="H2" value="15.840787103559549" />
-      <entry key="H4" value="15.920172057256913" />
-      <entry key="D1" value="15.986664473978546" />
-      <entry key="W1" value="15.998094167498" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000000073" />
+      <entry key="S30" value="1.0000457480355809" />
+      <entry key="S60" value="1.022998203341519" />
+      <entry key="M2" value="1.5880954199700046" />
+      <entry key="M5" value="5.242717065491253" />
+      <entry key="M10" value="9.231828503081745" />
+      <entry key="M15" value="11.271217355373526" />
+      <entry key="M30" value="13.81830635398418" />
+      <entry key="H1" value="15.320737819184524" />
+      <entry key="H2" value="16.13701451040287" />
+      <entry key="H4" value="16.562504574216156" />
+      <entry key="D1" value="16.92623608656481" />
+      <entry key="W1" value="16.989441341402816" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -59,23 +53,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9075191553171609" />
-      <entry key="MS500" value="0.9807790039885516" />
-      <entry key="S2" value="0.9952844435098673" />
-      <entry key="S5" value="1.0255019322909453" />
-      <entry key="S10" value="1.1689339454723962" />
-      <entry key="S30" value="2.4876576001239368" />
-      <entry key="S60" value="5.365033832566619" />
-      <entry key="M2" value="8.983222250819495" />
-      <entry key="M5" value="12.625451589891615" />
-      <entry key="M10" value="14.200351111544961" />
-      <entry key="M15" value="14.773749041670149" />
-      <entry key="M30" value="15.373232139265982" />
-      <entry key="H1" value="15.683128368149324" />
-      <entry key="H2" value="15.840682429283838" />
-      <entry key="H4" value="15.920119535116227" />
-      <entry key="D1" value="15.986655694476076" />
-      <entry key="W1" value="15.99809291264968" />
+      <entry key="MS100" value="0.9012504626108302" />
+      <entry key="MS500" value="0.9794202975869268" />
+      <entry key="S2" value="0.9948148855014217" />
+      <entry key="S5" value="0.9979227189990506" />
+      <entry key="S10" value="0.9989608195515302" />
+      <entry key="S30" value="0.9996990926099314" />
+      <entry key="S60" value="1.022798202634745" />
+      <entry key="M2" value="1.5877279316991297" />
+      <entry key="M5" value="5.241960831117189" />
+      <entry key="M10" value="9.231136598361855" />
+      <entry key="M15" value="11.27065141139491" />
+      <entry key="M30" value="13.817958751243252" />
+      <entry key="H1" value="15.320545112521364" />
+      <entry key="H2" value="16.136913042527766" />
+      <entry key="H4" value="16.562452510025988" />
+      <entry key="D1" value="16.926227219910153" />
+      <entry key="W1" value="16.989440070042054" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -93,6 +87,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/Desktop/SMS_AI",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,6 +96,13 @@
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\SMS_AI" />
+      <recent name="C:\Users\User\Desktop" />
+      <recent name="D:\Python\pythonProject\PythonProject4" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -116,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793962225999</updated>
-      <workItem from="1793962227173" duration="369000" />
+      <workItem from="1793962227173" duration="764000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <option name="closed" value="true" />
@@ -126,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793962419466</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new new">
+      <option name="closed" value="true" />
+      <created>1793962886200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793962886200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +144,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="new new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
